@@ -1,0 +1,70 @@
+Suppose you are a normal person searching the web. You are looking for grants websites in 2024.
+
+You have to find these types of grants:
+Medical Research Grants
+Technology and Other Research Grants
+Youth Support and Leadership Grants
+High School/College Student Grants
+Government Organization Grants
+Educators and Educational Institutions Grants
+Graduate School Student Grants
+Small Business Grants
+
+
+
+The grants should be from these locations:
+Alabama
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+DistrictOfColumbia
+Florida
+Georgia
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+NewHampshire
+NewJersey
+NewMexico
+NewYork
+NorthCarolina
+NorthDakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+RhodeIsland
+SouthCarolina
+SouthDakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+WestVirginia
+Wisconsin
+Wyoming
+
+
+The year should be 2024. Now give me 25 search queries mixed with the above requirements.
+Example output should forever be "# types of grant"+"location"+"2024".
+Perfect output is like this pattern "# Environmental Advocacy and Research Grants USA 2024" Always put "#" symbols. No numbering or anything.
+Don't add quotation mark when you are giving response. Dont say anything like "The categories for the provided links are:" Just respond to the query.
